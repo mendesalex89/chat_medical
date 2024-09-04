@@ -1,0 +1,5 @@
+openai
+streamlit
+SpeechRecognition
+pyttsx3
+requests
